@@ -1,0 +1,14 @@
+{
+  "name": "node-static-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "git://github.com/cloudhead/node-static#beb25d33ed7070142ca567896663e3ef7ba68787"
+  }
+}
